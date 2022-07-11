@@ -1,7 +1,8 @@
 # Fractal NYC Issue Tracking
-For improvements to the Bushwick neighborhood around the Morgan Ave L stop
+For community issue tracking in NYC
 
 see: https://drewface.substack.com/p/political-issue-tracking
+and: 
 
 
 Read more:
