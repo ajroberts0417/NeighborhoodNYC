@@ -2,7 +2,7 @@
 name: Fractal Neighborhood Issues
 about: For proposing changes in or near Fractal
 title: 'Fractal Community: [Title]'
-labels: ''
+labels: fractal, neighborhood improvements
 assignees: ''
 
 ---
